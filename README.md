@@ -1,8 +1,8 @@
-ex1 - declarei a variável numero como int e input para receber um numero, caso o numero recebido pela variável fosse maior do que zero ele entraria no if, printando a mensagem "Esse numero eh positivo", caso o numero seja menor do que zero ele entraria no elif, printando a mensagem "Esse numero eh negativo", caso o numero não fosse nem maior e nem menor ele entraria no else, printando a mensagem informando que o numero é zero
+ex1 - declarei a variável numero como int e input para receber um numero, caso o numero recebido pela variável fosse maior do que zero ele entraria no if, printando a mensagem "Esse numero eh positivo", caso o numero seja menor do que zero ele entraria no elif, printando a mensagem "Esse numero é negativo", caso o numero não fosse nem maior e nem menor ele entraria no else, printando a mensagem informando que o numero é zero
 
 ex2 - declarei a variável numero como int e input para receber um numero, caso o numero recebido quando divido por 2 não tivesse sobra ele entraria no if, sendo assim um numero par, caso ele tivesse sobra entraria no else, sendo assim um numero impar
 
-ex3 - declarei a variável idade como int e input para receber uma idade, caso a idade recebido fosse maior ou igual a 18 entraria no if printando a mensagem falando que ela eh maior de idade, caso a idade recebido fosse menor que 18 entraria no else, printando que a pessoa eh menor de idade
+ex3 - declarei a variável idade como int e input para receber uma idade, caso a idade recebido fosse maior ou igual a 18 entraria no if printando a mensagem falando que ela é maior de idade, caso a idade recebido fosse menor que 18 entraria no else, printando que a pessoa é menor de idade
 
 ex4 - declarei duas variáveis a nome e nota ambas com input e apenas a nota com int, ja que nela quero receber um numero, caso o valor recebido em nota for igual ou maior que 6 o aluno sera aprovado, caso contrario a nota for menor do que 6 o mesmo sera reprovado. A variável nome vai servir apenas para sabermos o nome desse aluno
 
